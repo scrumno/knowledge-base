@@ -26,9 +26,9 @@
 		{"id":"c4794743f73c33e2","type":"text","text":"index.php | SLIM | router","x":-92,"y":-600,"width":225,"height":60},
 		{"id":"1ba897cd29ba2afb","type":"text","text":"Action","x":-28,"y":-360,"width":97,"height":60},
 		{"id":"0e581bac4e89921e","type":"text","text":"В них выполняется бизнес логика","x":-137,"y":317,"width":316,"height":50},
-		{"id":"6c3da9ee25525b32","x":1360,"y":465,"width":356,"height":94,"type":"text","text":"1. Fetcher -- никак не изменяет данные вообще, только получает их"},
-		{"id":"8ff24b40bd727b19","x":-1341,"y":1413,"width":188,"height":50,"type":"text","text":"DI Контейнеры"},
-		{"id":"c674dcea4ec82052","x":-1703,"y":1403,"width":250,"height":60,"type":"text","text":""}
+		{"id":"6c3da9ee25525b32","type":"text","text":"1. Fetcher -- никак не изменяет данные вообще, только получает их","x":1360,"y":465,"width":356,"height":94},
+		{"id":"8ff24b40bd727b19","type":"text","text":"DI Контейнеры","x":-1341,"y":1413,"width":188,"height":50},
+		{"id":"c674dcea4ec82052","type":"text","text":"","x":-1703,"y":1403,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"878560bdb8d6c4d6","fromNode":"c4794743f73c33e2","fromSide":"bottom","toNode":"1ba897cd29ba2afb","toSide":"top","color":"1"},

@@ -1,0 +1,27 @@
+#nginx 
+
+*/nginx/default.conf*
+
+```nginx/default.conf
+
+server {
+
+  listen 80;
+
+  index index.php index.html;
+
+  server_name _;
+
+  root /var/www/html/public;
+
+  
+
+  location / {
+
+    try_files $uri $uri/ /index.php?$query_string;
+
+  }
+
+}
+
+```
