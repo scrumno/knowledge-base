@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"1a59d30f9c9a5122","type":"text","text":"REACT NATIVE","x":-125,"y":-30,"width":165,"height":60,"color":"1"},
+		{"id":"338fe6616a93b5d5","type":"text","text":"Components","x":-480,"y":80,"width":250,"height":60,"color":"2"},
+		{"id":"91c33602741f97e8","x":-480,"y":1100,"width":560,"height":400,"type":"file","file":"SaveAreaView Component.md"},
+		{"id":"becfa968550bf88e","type":"file","file":"Pressable Component.md","x":-480,"y":200,"width":560,"height":860},
+		{"id":"501d275b65a20978","x":520,"y":-440,"width":110,"height":60,"color":"1","type":"text","text":"REACT"},
+		{"id":"d807251bc68159e5","x":1020,"y":-180,"width":214,"height":60,"color":"3","type":"text","text":"Теория и философия"}
+	],
+	"edges":[
+		{"id":"8a87cdf14f4fd540","fromNode":"1a59d30f9c9a5122","fromSide":"left","toNode":"338fe6616a93b5d5","toSide":"top"},
+		{"id":"34e96bda5a9e1f1d","fromNode":"338fe6616a93b5d5","fromSide":"left","toNode":"becfa968550bf88e","toSide":"left"},
+		{"id":"e1812a025d36b043","fromNode":"338fe6616a93b5d5","fromSide":"left","toNode":"91c33602741f97e8","toSide":"left"},
+		{"id":"86f9bdc467692b9b","fromNode":"501d275b65a20978","fromSide":"left","toNode":"1a59d30f9c9a5122","toSide":"top"},
+		{"id":"3c0d8d2362d212ac","fromNode":"501d275b65a20978","fromSide":"right","toNode":"d807251bc68159e5","toSide":"top"}
+	]
+}
