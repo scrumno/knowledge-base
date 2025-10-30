@@ -1,17 +1,41 @@
 {
 	"nodes":[
 		{"id":"1a59d30f9c9a5122","type":"text","text":"REACT NATIVE","x":-125,"y":-30,"width":165,"height":60,"color":"1"},
-		{"id":"338fe6616a93b5d5","type":"text","text":"Components","x":-480,"y":80,"width":250,"height":60,"color":"2"},
-		{"id":"91c33602741f97e8","x":-480,"y":1100,"width":560,"height":400,"type":"file","file":"SaveAreaView Component.md"},
+		{"id":"338fe6616a93b5d5","type":"text","text":"Components","x":-480,"y":80,"width":140,"height":60,"color":"2"},
+		{"id":"91c33602741f97e8","type":"file","file":"SaveAreaView Component.md","x":-480,"y":1100,"width":560,"height":360},
 		{"id":"becfa968550bf88e","type":"file","file":"Pressable Component.md","x":-480,"y":200,"width":560,"height":860},
-		{"id":"501d275b65a20978","x":520,"y":-440,"width":110,"height":60,"color":"1","type":"text","text":"REACT"},
-		{"id":"d807251bc68159e5","x":1020,"y":-180,"width":214,"height":60,"color":"3","type":"text","text":"Теория и философия"}
+		{"id":"501d275b65a20978","type":"text","text":"REACT","x":520,"y":-440,"width":110,"height":60,"color":"1"},
+		{"id":"d807251bc68159e5","type":"text","text":"Теория и философия","x":1020,"y":-180,"width":214,"height":60,"color":"3"},
+		{"id":"9b0724f7d7b5933c","x":-1080,"y":80,"width":91,"height":60,"color":"2","type":"text","text":"API"},
+		{"id":"6daa630b66923c4e","x":-1400,"y":200,"width":100,"height":60,"color":"3","type":"text","text":"Hook's"},
+		{"id":"d36f97d37aac2d0e","x":-1234,"y":320,"width":554,"height":560,"type":"file","file":"useWindowDimensions.md"},
+		{"id":"22853218b75161cd","x":-480,"y":1500,"width":560,"height":660,"type":"file","file":"KeyboardAvoidingView.md"},
+		{"id":"dded16e3e4cdff68","x":-480,"y":2200,"width":560,"height":520,"type":"file","file":"ScrollView.md"},
+		{"id":"e6e7f2930aa662f0","x":-221,"y":-3040,"width":96,"height":60,"color":"5","type":"text","text":"Expo"},
+		{"id":"83f3d5e6a5e39767","x":-840,"y":-3010,"width":141,"height":60,"color":"2","type":"text","text":"Components"},
+		{"id":"a61567b9687c205d","x":-2080,"y":-2720,"width":400,"height":320,"type":"file","file":"Stack.md"},
+		{"id":"356f0febddb23197","x":-2080,"y":-2360,"width":400,"height":600,"type":"file","file":"Stack.Screen.md"},
+		{"id":"b52b6f76f2fbad5c","x":-2080,"y":-1680,"width":400,"height":560,"type":"file","file":"Tabs.md"},
+		{"id":"596bb2161841b039","x":-1930,"y":-3280,"width":101,"height":60,"color":"2","type":"text","text":"Hook's"},
+		{"id":"7ddb978d3c7438d0","x":-2900,"y":-2720,"width":580,"height":580,"type":"file","file":"useRouter expo.md"}
 	],
 	"edges":[
 		{"id":"8a87cdf14f4fd540","fromNode":"1a59d30f9c9a5122","fromSide":"left","toNode":"338fe6616a93b5d5","toSide":"top"},
 		{"id":"34e96bda5a9e1f1d","fromNode":"338fe6616a93b5d5","fromSide":"left","toNode":"becfa968550bf88e","toSide":"left"},
 		{"id":"e1812a025d36b043","fromNode":"338fe6616a93b5d5","fromSide":"left","toNode":"91c33602741f97e8","toSide":"left"},
 		{"id":"86f9bdc467692b9b","fromNode":"501d275b65a20978","fromSide":"left","toNode":"1a59d30f9c9a5122","toSide":"top"},
-		{"id":"3c0d8d2362d212ac","fromNode":"501d275b65a20978","fromSide":"right","toNode":"d807251bc68159e5","toSide":"top"}
+		{"id":"3c0d8d2362d212ac","fromNode":"501d275b65a20978","fromSide":"right","toNode":"d807251bc68159e5","toSide":"top"},
+		{"id":"e1608fed317c75f2","fromNode":"1a59d30f9c9a5122","fromSide":"left","toNode":"9b0724f7d7b5933c","toSide":"top"},
+		{"id":"33ee2c21d307fb89","fromNode":"9b0724f7d7b5933c","fromSide":"left","toNode":"6daa630b66923c4e","toSide":"top"},
+		{"id":"92d3d7f9cbc333b0","fromNode":"6daa630b66923c4e","fromSide":"bottom","toNode":"d36f97d37aac2d0e","toSide":"left"},
+		{"id":"f83b2cd69770241c","fromNode":"338fe6616a93b5d5","fromSide":"left","toNode":"22853218b75161cd","toSide":"left"},
+		{"id":"d65c0f55386600e4","fromNode":"338fe6616a93b5d5","fromSide":"left","toNode":"dded16e3e4cdff68","toSide":"left"},
+		{"id":"bc6dea8e27f12563","fromNode":"e6e7f2930aa662f0","fromSide":"right","toNode":"501d275b65a20978","toSide":"top"},
+		{"id":"1718640b3715be0e","fromNode":"83f3d5e6a5e39767","fromSide":"left","toNode":"a61567b9687c205d","toSide":"right"},
+		{"id":"62edbcbde727f725","fromNode":"e6e7f2930aa662f0","fromSide":"left","toNode":"83f3d5e6a5e39767","toSide":"right"},
+		{"id":"c0452d8b94682947","fromNode":"83f3d5e6a5e39767","fromSide":"left","toNode":"356f0febddb23197","toSide":"right"},
+		{"id":"5e5623d2d8998a07","fromNode":"83f3d5e6a5e39767","fromSide":"left","toNode":"b52b6f76f2fbad5c","toSide":"right"},
+		{"id":"2a324368dde827e7","fromNode":"e6e7f2930aa662f0","fromSide":"left","toNode":"596bb2161841b039","toSide":"right"},
+		{"id":"d8187157283f7486","fromNode":"596bb2161841b039","fromSide":"left","toNode":"7ddb978d3c7438d0","toSide":"right"}
 	]
 }
