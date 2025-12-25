@@ -1,0 +1,16 @@
+#reactnative 
+
+### SOLID
+
+### [[S - SINGLE REPOSITORY PRINCIPLE]]
+### [[O - OPEN OR CLOSED PRINCIPLE]]
+
+### [[L - LISKOV SUBSTITUTION PRINCIPLE]]
+
+[[I - INTERFACE SEGREGATION PRINCIPLE]]
+
+### [[D - ]]
+
+## [[MMKV]]
+
+## [[REATOM]]
