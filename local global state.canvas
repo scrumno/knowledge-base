@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"400f5de990315b2b","type":"text","text":"БЫЛО","x":-379,"y":-215,"width":105,"height":60},
+		{"id":"c3353e230798d156","type":"text","text":"APP","x":-369,"y":-105,"width":85,"height":60},
+		{"id":"326572ddd8dc2db5","type":"text","text":"STATE","x":-295,"y":-75,"width":105,"height":60,"color":"1"},
+		{"id":"4a60fbcc29ff52f6","type":"text","text":"COMPONENT","x":-546,"y":95,"width":167,"height":60},
+		{"id":"844bc4c61d8001df","type":"text","text":"COMPONENT","x":-326,"y":95,"width":167,"height":60},
+		{"id":"df886df6f5986a5e","type":"text","text":"COMPONENT","x":280,"y":35,"width":167,"height":60},
+		{"id":"cfa7d187d977474d","type":"text","text":"COMPONENT","x":-120,"y":35,"width":167,"height":60},
+		{"id":"73da1f51453bb715","type":"text","text":"STATE","x":120,"y":35,"width":105,"height":60,"color":"1"},
+		{"id":"1bc74121ecc40ee8","type":"text","text":"APP","x":120,"y":-105,"width":85,"height":60},
+		{"id":"cc7c33cb3619a814","type":"text","text":"СТАЛО","x":110,"y":-215,"width":105,"height":60}
+	],
+	"edges":[
+		{"id":"b6e7c57324685113","fromNode":"1bc74121ecc40ee8","fromSide":"left","toNode":"cfa7d187d977474d","toSide":"top"},
+		{"id":"0b32e9d134f0bf3b","fromNode":"1bc74121ecc40ee8","fromSide":"right","toNode":"df886df6f5986a5e","toSide":"top"},
+		{"id":"fd1867d8eb584f62","fromNode":"c3353e230798d156","fromSide":"bottom","toNode":"4a60fbcc29ff52f6","toSide":"top"},
+		{"id":"25bd0e28dc2b9445","fromNode":"c3353e230798d156","fromSide":"bottom","toNode":"844bc4c61d8001df","toSide":"top"},
+		{"id":"f8b9e2df71f1782f","fromNode":"cfa7d187d977474d","fromSide":"right","toNode":"73da1f51453bb715","toSide":"left"},
+		{"id":"033cc004591c4b1a","fromNode":"73da1f51453bb715","fromSide":"right","toNode":"df886df6f5986a5e","toSide":"left"}
+	]
+}
