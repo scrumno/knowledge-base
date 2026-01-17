@@ -1,20 +1,20 @@
 {
   "main": {
-    "id": "aba53d9c61104b19",
+    "id": "2407278c185df122",
     "type": "split",
     "children": [
       {
-        "id": "359ae2b9fdc89724",
+        "id": "b764c209bb3fe7ff",
         "type": "tabs",
         "children": [
           {
-            "id": "8692e67d2d92fd91",
+            "id": "8c8357ffdae2ae70",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a5f4581b65d3707d",
+    "id": "fb14c03cc9093911",
     "type": "split",
     "children": [
       {
-        "id": "7bc02f2271d28b89",
+        "id": "facc2fffc59cae11",
         "type": "tabs",
         "children": [
           {
-            "id": "a0b07ff8348fad72",
+            "id": "2c946db65d033793",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,12 +44,12 @@
             }
           },
           {
-            "id": "44c41ca5c0bbfe3b",
+            "id": "99cec14049547825",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "canvas",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,7 @@
             }
           },
           {
-            "id": "16a9e80bee13cd1d",
+            "id": "28de52e1b859b7dc",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,23 +74,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "28c3a399662f7d8f",
+    "id": "3417ae2e6ec6c262",
     "type": "split",
     "children": [
       {
-        "id": "3cf3478946b0bcd4",
+        "id": "2e1ca3eac2c6e729",
         "type": "tabs",
         "children": [
           {
-            "id": "42099f7c2db11681",
+            "id": "6d441298d0da3934",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pattern slot.md",
+                "file": "ORM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,25 +100,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for pattern slot"
+              "title": "Backlinks for ORM"
             }
           },
           {
-            "id": "acbd18549b2f1789",
+            "id": "c397c82dae3cb908",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "slot-pattern.canvas",
+                "file": "ORM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from slot-pattern"
+              "title": "Outgoing links from ORM"
             }
           },
           {
-            "id": "26f6ee564fea6b4a",
+            "id": "4232e7febb995eee",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,32 +133,18 @@
             }
           },
           {
-            "id": "77c078811fe51af7",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "c1a1a044252cbf02",
+            "id": "301992e7524bfe37",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "slot-pattern.canvas",
+                "file": "ORM.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of slot-pattern"
+              "title": "Outline of ORM"
             }
           }
         ]
@@ -180,63 +166,63 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "8692e67d2d92fd91",
+  "active": "8c8357ffdae2ae70",
   "lastOpenFiles": [
-    "что такое REDUX.md",
-    "ROAD TO THE BUSINESS/LEARN/JAVASCRIPT/REDUX/REDUX.md",
-    "pattern ssr.md",
-    "ROAD TO THE BUSINESS/LEARN/JAVASCRIPT/REDUX",
-    "ROAD TO THE BUSINESS/LEARN/REACT-NATIVE/REACT/ПАТТЕРНЫ.md",
-    "pattern render as you fetch.md",
-    "pattern module.md",
-    "pattern module.canvas",
-    "local global state.canvas",
-    "hooks flow.canvas",
-    "ROAD TO THE BUSINESS/LEARN/REACT-NATIVE/ARCHITECTURE CLEAN REACT NATIVE.md",
-    "contextual DI.md",
-    "pattern polymorphizm.md",
-    "pattern mediator.md",
-    "pattern slot.md",
-    "props driiling.md",
-    "premature optimization.md",
-    "local global state.md",
-    "global state coupling.md",
-    "components folder.md",
-    "useEffect driven development.md",
+    "scripts/update_mocs.sh",
+    "scripts/README.md",
+    "scripts/move_from_inbox.sh",
+    "scripts/format_new_files.sh",
+    "scripts/format_file.sh",
+    "scripts/fix_tags.sh",
+    "scripts/fix_links.sh",
+    "scripts/check_system.sh",
+    "scripts/add_metadata.sh",
+    "scripts",
+    "fix_tags_script.sh",
+    "TAGS_FIXED.md",
+    "SYSTEM_COMPLETE.md",
+    "QUICK_START.md",
+    "Makefile",
+    "MAKEFILE_GUIDE.md",
+    "LINKS_FIXED.md",
+    "README_SYSTEM.md",
+    "SYSTEM_STRUCTURE.md",
+    "templates/Project-Template.md",
+    "templates/Note-Template.md",
+    "templates/Meeting-Template.md",
+    "templates/Daily-Review-Template.md",
+    "MIGRATION_GUIDE.md",
+    "MIGRATION_COMPLETE.md",
+    "99-MOCs/Resources-MOC.md",
+    "99-MOCs/Life-MOC.md",
+    "99-MOCs/Projects-MOC.md",
+    "99-MOCs/Patterns-MOC.md",
+    "99-MOCs/Learning-MOC.md",
+    "99-MOCs/Home.md",
+    "99-MOCs/Bitrix-MOC.md",
+    "03-Resources/Tools/Docker/Оркестр всех контейнеров - docker-compose.yml.md",
+    "03-Resources/Tools/Docker/Настройка сервиса nginx в docker-compose.yml.md",
+    "03-Resources/Tools/Docker/Настройка окружения для Laravel проекта.md",
+    "03-Resources/Tools/Docker/Настройка mysql для docker.md",
+    "03-Resources/External-Links/Без названия.canvas",
+    "03-Resources/External-Links/Untitled.canvas",
+    "03-Resources/External-Links/slot-pattern.canvas",
+    "03-Resources/External-Links/render props.canvas",
+    "03-Resources/External-Links/pattern module.canvas",
+    "03-Resources/External-Links/Pasted image 20250907123123.png",
+    "03-Resources/External-Links/Pasted image 20250907122537.png",
+    "03-Resources/External-Links/Pasted image 20250907122535.png",
+    "03-Resources/External-Links/Pasted image 20250907122218.png",
+    "03-Resources/External-Links/Pasted image 20250629224132.png",
+    "03-Resources/External-Links/Pasted image 20250825165925.png",
+    "03-Resources/External-Links/Pasted image 20250629223740.png",
+    "03-Resources/External-Links/Pasted image 20250629223723.png",
+    "03-Resources/External-Links/Pasted image 20250629223710.png",
+    "03-Resources/External-Links/Pasted image 20250629222736.png",
+    "03-Resources/External-Links/local global state.canvas",
+    "03-Resources/External-Links/hooks flow.canvas",
+    "02-Areas/Learning/React-Native/RoadMap.canvas",
     "slot-pattern.canvas",
-    "render props.canvas",
-    "hooks flow.md",
-    "Untitled.canvas",
-    "ROAD TO THE BUSINESS/LEARN/REACT-NATIVE/REACT/АНТИПАТТЕРНЫ.md",
-    "ROAD TO THE BUSINESS/LEARN/REACT-NATIVE/RoadMap.canvas",
-    "ROAD TO THE BUSINESS/LEARN/REACT-NATIVE/how start React Native app.md",
-    "ROAD TO THE BUSINESS/LEARN/REACT-NATIVE/how create React Native app.md",
-    "ROAD TO THE BUSINESS/LEARN/REACT-NATIVE/XCODE/XCODE GUIDE.md",
-    "low level code.md",
-    "render props.md",
-    "2025-12-31.md",
-    "templates/pattern.md",
-    "templates",
-    "ROAD TO THE BUSINESS/LEARN/REACT-NATIVE/REACT",
-    "ROAD TO THE BUSINESS/LEARN/REACT-NATIVE/Untitled",
-    "ROAD TO THE BUSINESS/LEARN/REACT-NATIVE/XCODE",
-    "Без названия.canvas",
-    "_resources/links/Без названия.base",
-    "_resources/Без названия.canvas",
-    "_resources/links",
-    "_resources/Pasted image 20250825165925.png",
-    "_resources/Pasted image 20250629224132.png",
-    "_resources/Pasted image 20250629223740.png",
-    "_resources/Pasted image 20250629223723.png",
-    "_resources/Pasted image 20250629223710.png",
-    "_resources/Pasted image 20250629222736.png",
-    "_resources/Pasted image 20250629222625.png",
-    "_resources/Pasted image 20250629221502.png",
-    "_resources/Pasted image 20250629135428.png",
-    "_resources/Pasted image 20250629115851.png",
-    "_resources",
-    "ROAD TO THE BUSINESS/LEARN/JAVASCRIPT/hexlet.io/Полиморфизм",
-    "ROAD TO THE BUSINESS/LEARN/JAVASCRIPT/hexlet.io",
-    "ROAD TO THE BUSINESS/DDD DIAGRAM.canvas"
+    "render props.canvas"
   ]
 }
