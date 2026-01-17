@@ -1,3 +1,3 @@
 #bitrix #php #rasa #вебразработка #backend 
 
-[[Мой метод]]
+[[02-Areas/Learning/PHP/Мой метод|Мой метод]]

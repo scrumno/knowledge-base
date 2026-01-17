@@ -76,41 +76,41 @@ tags: [resources]
 Все ссылки находятся в `_resources/links/`:
 
 #### Структура и основы
-- [[_resources/links/Файловая структура Bitrix Framework|Файловая структура]]
-- [[_resources/links/Структура Bitrix Framework|Структура Bitrix]]
-- [[_resources/links/Устройство компонента в Bitrix Framework|Устройство компонента]]
-- [[_resources/links/Редакции Bitrix Framework|Редакции Bitrix]]
+- [[03-Resources/External-Links/Файловая структура Bitrix Framework|Файловая структура]]
+- [[03-Resources/External-Links/Структура Bitrix Framework|Структура Bitrix]]
+- [[03-Resources/External-Links/Устройство компонента в Bitrix Framework|Устройство компонента]]
+- [[03-Resources/External-Links/Редакции Bitrix Framework|Редакции Bitrix]]
 
 #### PHP для Bitrix
-- [[_resources/links/Создание ассоциативных массивов в PHP|Ассоциативные массивы]]
-- [[_resources/links/Синтаксис ассоциативных массивов в PHP|Синтаксис массивов]]
-- [[_resources/links/Функции с ассоциативными массивами в PHP|Функции с массивами]]
-- [[_resources/links/Тип аргументов и возвращение значений|Типы аргументов]]
+- [[03-Resources/External-Links/Создание ассоциативных массивов в PHP|Ассоциативные массивы]]
+- [[03-Resources/External-Links/Синтаксис ассоциативных массивов в PHP|Синтаксис массивов]]
+- [[03-Resources/External-Links/Функции с ассоциативными массивами в PHP|Функции с массивами]]
+- [[03-Resources/External-Links/Тип аргументов и возвращение значений|Типы аргументов]]
 
 #### Компоненты
-- [[_resources/links/Технологии в комплексных компонентах Bitrix Framework|Комплексные компоненты]]
-- [[_resources/links/Чек-лист для джуниор разработчика Bitrix Framework|Чек-лист разработчика]]
-- [[_resources/links/Чек-лист для джуниор разработчика Bitrix Framework как внедрять компонеты|Чек-лист: внедрение компонентов]]
-- [[_resources/links/Чек-лист для джуниор разработчика Bitrix Framework интеграция шаблона|Чек-лист: интеграция шаблона]]
+- [[03-Resources/External-Links/Технологии в комплексных компонентах Bitrix Framework|Комплексные компоненты]]
+- [[03-Resources/External-Links/Чек-лист для джуниор разработчика Bitrix Framework|Чек-лист разработчика]]
+- [[03-Resources/External-Links/Чек-лист для джуниор разработчика Bitrix Framework как внедрять компонеты|Чек-лист: внедрение компонентов]]
+- [[03-Resources/External-Links/Чек-лист для джуниор разработчика Bitrix Framework интеграция шаблона|Чек-лист: интеграция шаблона]]
 
 #### URL и навигация
-- [[_resources/links/ЧПУ|ЧПУ]]
-- [[_resources/links/Формирование URL с параметрами запроса|Формирование URL]]
+- [[03-Resources/External-Links/ЧПУ|ЧПУ]]
+- [[03-Resources/External-Links/Формирование URL с параметрами запроса|Формирование URL]]
 
 #### WordPress (для справки)
-- [[_resources/links/файлы wp-admin|WordPress admin]]
-- [[_resources/links/файлы wp-content|WordPress content]]
-- [[_resources/links/файлы wp-includes|WordPress includes]]
-- [[_resources/links/доп файлы .php|WordPress PHP]]
-- [[_resources/links/Что делать, если нужно закрыть сайт на технические работы|Технические работы]]
+- [[03-Resources/External-Links/файлы wp-admin|WordPress admin]]
+- [[03-Resources/External-Links/файлы wp-content|WordPress content]]
+- [[03-Resources/External-Links/файлы wp-includes|WordPress includes]]
+- [[03-Resources/External-Links/доп файлы .php|WordPress PHP]]
+- [[03-Resources/External-Links/Что делать, если нужно закрыть сайт на технические работы|Технические работы]]
 
 #### Другое
-- [[_resources/links/Энергия смысла|Энергия смысла]]
-- [[_resources/links/Управление эмоциями|Управление эмоциями]]
-- [[_resources/links/Серотонин|Серотонин]]
-- [[_resources/links/Сотрудники компании (лимбическая система)|Лимбическая система]]
-- [[_resources/links/Расписание|Расписание]]
-- [[_resources/links/ХХ РУ ТОЧКА ПОЛИНКА ЛАВ|Точка полиня]]
+- [[03-Resources/External-Links/Энергия смысла|Энергия смысла]]
+- [[03-Resources/External-Links/Управление эмоциями|Управление эмоциями]]
+- [[03-Resources/External-Links/Серотонин|Серотонин]]
+- [[03-Resources/External-Links/Сотрудники компании (лимбическая система)|Лимбическая система]]
+- [[03-Resources/External-Links/Расписание|Расписание]]
+- [[03-Resources/External-Links/ХХ РУ ТОЧКА ПОЛИНКА ЛАВ|Точка полиня]]
 
 ---
 

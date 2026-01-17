@@ -1,4 +1,4 @@
-#docker #php #backend #env
+#tech/docker #php #backend #env
 
 ![[Nginx образ для docker#^580da7]]
 

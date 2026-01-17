@@ -1,4 +1,4 @@
-#php #docker #compose #backend 
+#php #tech/docker #compose #backend 
 
 Всё аналогично предыдущим настроенным сервисам
 

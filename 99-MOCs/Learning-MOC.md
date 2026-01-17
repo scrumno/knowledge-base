@@ -60,12 +60,12 @@ tags: [learning]
 - [[Как работать с заголовками в PHP|Заголовки]]
 
 **DDD и архитектура:**
-- [[Что такое DDD архитектура|DDD архитектура]]
-- [[DDD архитектура в RASA и как с ней работать|DDD в RASA]]
-- [[Методы написания DDD архитектурны|Методы DDD]]
+- [[03-Resources/Patterns/DDD-Patterns/Что такое DDD архитектура|DDD архитектура]]
+- [[03-Resources/Patterns/DDD-Patterns/DDD архитектура в RASA и как с ней работать|DDD в RASA]]
+- [[03-Resources/Patterns/DDD-Patterns/Методы написания DDD архитектурны|Методы DDD]]
 
 **Связанные проекты:**
-- [[Bitrix Exam|Экзамен Bitrix]] (использует PHP)
+- [[01-Projects/Bitrix-Exam/Подготовка к экзамену Bitrix Framework|Экзамен Bitrix]] (использует PHP)
 
 ---
 

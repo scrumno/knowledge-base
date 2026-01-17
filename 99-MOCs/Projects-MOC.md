@@ -19,12 +19,12 @@ tags: [project]
 **Приоритет:** High
 
 **Связанные заметки:**
-- [[Подготовка к экзамену Bitrix Framework]]
-- [[Основы архитектуры Bitrix Framework]]
-- [[Управление публичной структурой сайта]]
-- [[Интеграция HTML шаблона]]
-- [[Компоненты]]
-- [[Информационные блоки]]
+- [[01-Projects/Bitrix-Exam/Подготовка к экзамену Bitrix Framework|Подготовка к экзамену Bitrix Framework]]
+- [[02-Areas/Learning/Bitrix/Основы архитектуры Bitrix Framework|Основы архитектуры Bitrix Framework]]
+- [[02-Areas/Learning/Bitrix/Управление публичной структурой сайта|Управление публичной структурой сайта]]
+- [[02-Areas/Learning/Bitrix/Интеграция HTML шаблона|Интеграция HTML шаблона]]
+- [[02-Areas/Learning/Bitrix/Компоненты|Компоненты]]
+- [[02-Areas/Learning/Bitrix/Информационные блоки|Информационные блоки]]
 
 **Ресурсы:**
 - См. [[Bitrix-MOC|Bitrix-MOC]] для всех знаний по Bitrix
@@ -36,8 +36,8 @@ tags: [project]
 **Приоритет:** Medium
 
 **Связанные заметки:**
-- [[REACT NATIVE ARCHITECTURE PATTERNS]]
-- [[ARCHITECTURE CLEAN REACT NATIVE]]
+- [[03-Resources/Patterns/React-Native-Patterns/REACT NATIVE ARCHITECTURE PATTERNS|REACT NATIVE ARCHITECTURE PATTERNS]]
+- [[02-Areas/Learning/React-Native/ARCHITECTURE CLEAN REACT NATIVE|ARCHITECTURE CLEAN REACT NATIVE]]
 - [[Patterns-MOC|React Native паттерны]]
 
 ---
@@ -47,9 +47,12 @@ tags: [project]
 **Приоритет:** Medium
 
 **Связанные заметки:**
-- [[ROAD TO THE BUSINESS/WORK/Веб-студия с нуля/Оглавление]]
-- [[ROAD TO THE BUSINESS/WORK/Веб-студия с нуля/Заработок]]
-- [[ROAD TO THE BUSINESS/WORK/Веб-студия с нуля/Поиск проектов]]
+- [[01-Projects/Web-Studio/Оглавление|Оглавление]]
+- [[01-Projects/Web-Studio/Заработок|Заработок]]
+- [[01-Projects/Web-Studio/Поиск проектов|Поиск проектов]]
+- [[01-Projects/Web-Studio/Состав|Состав]]
+- [[01-Projects/Web-Studio/Стратегия набора команды|Стратегия набора команды]]
+- [[01-Projects/Web-Studio/Сплотить команду в единый организм|Сплотить команду в единый организм]]
 
 ---
 

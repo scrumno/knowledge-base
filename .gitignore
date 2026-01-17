@@ -1,1 +1,12 @@
-.obsidian/
+# Временные файлы от Makefile
+temp_*.txt
+*.tmp
+*.swp
+*.bak
+.DS_Store
+
+# Системные файлы
+knowledge-backup-*/
+
+# Резервные копии
+*.backup

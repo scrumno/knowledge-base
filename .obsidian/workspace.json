@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "aba53d9c61104b19",
+    "type": "split",
+    "children": [
+      {
+        "id": "359ae2b9fdc89724",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8692e67d2d92fd91",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a5f4581b65d3707d",
+    "type": "split",
+    "children": [
+      {
+        "id": "7bc02f2271d28b89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0b07ff8348fad72",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "44c41ca5c0bbfe3b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "canvas",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "16a9e80bee13cd1d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "28c3a399662f7d8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3cf3478946b0bcd4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42099f7c2db11681",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "pattern slot.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for pattern slot"
+            }
+          },
+          {
+            "id": "acbd18549b2f1789",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "slot-pattern.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from slot-pattern"
+            }
+          },
+          {
+            "id": "26f6ee564fea6b4a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "77c078811fe51af7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c1a1a044252cbf02",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "slot-pattern.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of slot-pattern"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "github-sync:Sync with Remote": false
+    }
+  },
+  "active": "8692e67d2d92fd91",
+  "lastOpenFiles": [
+    "что такое REDUX.md",
+    "ROAD TO THE BUSINESS/LEARN/JAVASCRIPT/REDUX/REDUX.md",
+    "pattern ssr.md",
+    "ROAD TO THE BUSINESS/LEARN/JAVASCRIPT/REDUX",
+    "ROAD TO THE BUSINESS/LEARN/REACT-NATIVE/REACT/ПАТТЕРНЫ.md",
+    "pattern render as you fetch.md",
+    "pattern module.md",
+    "pattern module.canvas",
+    "local global state.canvas",
+    "hooks flow.canvas",
+    "ROAD TO THE BUSINESS/LEARN/REACT-NATIVE/ARCHITECTURE CLEAN REACT NATIVE.md",
+    "contextual DI.md",
+    "pattern polymorphizm.md",
+    "pattern mediator.md",
+    "pattern slot.md",
+    "props driiling.md",
+    "premature optimization.md",
+    "local global state.md",
+    "global state coupling.md",
+    "components folder.md",
+    "useEffect driven development.md",
+    "slot-pattern.canvas",
+    "render props.canvas",
+    "hooks flow.md",
+    "Untitled.canvas",
+    "ROAD TO THE BUSINESS/LEARN/REACT-NATIVE/REACT/АНТИПАТТЕРНЫ.md",
+    "ROAD TO THE BUSINESS/LEARN/REACT-NATIVE/RoadMap.canvas",
+    "ROAD TO THE BUSINESS/LEARN/REACT-NATIVE/how start React Native app.md",
+    "ROAD TO THE BUSINESS/LEARN/REACT-NATIVE/how create React Native app.md",
+    "ROAD TO THE BUSINESS/LEARN/REACT-NATIVE/XCODE/XCODE GUIDE.md",
+    "low level code.md",
+    "render props.md",
+    "2025-12-31.md",
+    "templates/pattern.md",
+    "templates",
+    "ROAD TO THE BUSINESS/LEARN/REACT-NATIVE/REACT",
+    "ROAD TO THE BUSINESS/LEARN/REACT-NATIVE/Untitled",
+    "ROAD TO THE BUSINESS/LEARN/REACT-NATIVE/XCODE",
+    "Без названия.canvas",
+    "_resources/links/Без названия.base",
+    "_resources/Без названия.canvas",
+    "_resources/links",
+    "_resources/Pasted image 20250825165925.png",
+    "_resources/Pasted image 20250629224132.png",
+    "_resources/Pasted image 20250629223740.png",
+    "_resources/Pasted image 20250629223723.png",
+    "_resources/Pasted image 20250629223710.png",
+    "_resources/Pasted image 20250629222736.png",
+    "_resources/Pasted image 20250629222625.png",
+    "_resources/Pasted image 20250629221502.png",
+    "_resources/Pasted image 20250629135428.png",
+    "_resources/Pasted image 20250629115851.png",
+    "_resources",
+    "ROAD TO THE BUSINESS/LEARN/JAVASCRIPT/hexlet.io/Полиморфизм",
+    "ROAD TO THE BUSINESS/LEARN/JAVASCRIPT/hexlet.io",
+    "ROAD TO THE BUSINESS/DDD DIAGRAM.canvas"
+  ]
+}

@@ -1,4 +1,4 @@
-#react #reactnative #pattern 
+#tech/react-native #pattern/react-native 
 ## Проблема
 Кода становится так много, что его невозможно понять
 ## ОПРЕДЕЛЕНИЕ И ВСЯ ИНФОРМАЦИЯ

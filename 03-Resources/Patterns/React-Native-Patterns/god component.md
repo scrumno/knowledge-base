@@ -1,4 +1,4 @@
-#react #reactnative #antipattern
+#tech/react-native #pattern/react-native #antipattern
 
 Когда в одном компоненте очень много логики и он отвечает за очень много вещей
 

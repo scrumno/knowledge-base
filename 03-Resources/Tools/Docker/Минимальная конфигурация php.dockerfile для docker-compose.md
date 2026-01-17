@@ -1,4 +1,4 @@
-#php #backend #docker #mysql #nginx 
+#php #backend #tech/docker #mysql #nginx 
 
 Создаем файл php.dockerfile
 ```dockerfile

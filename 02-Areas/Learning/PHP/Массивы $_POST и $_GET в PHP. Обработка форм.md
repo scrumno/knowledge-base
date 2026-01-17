@@ -1,4 +1,4 @@
-#php #code #learn 
+#tech/php #learn 
 [[Что такое формы HTML]]
 
 ## Отправка формы

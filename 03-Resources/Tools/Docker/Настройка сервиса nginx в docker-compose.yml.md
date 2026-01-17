@@ -1,4 +1,4 @@
-#nginx #docker #compose #mysql 
+#nginx #tech/docker #compose #mysql 
 
 ```yml
 	# Определяем сервис с именем nginx

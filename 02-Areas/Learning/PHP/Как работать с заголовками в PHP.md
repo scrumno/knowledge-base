@@ -1,4 +1,4 @@
-#php #code #learn #backend 
+#tech/php #learn #backend 
 
 [[Модель взаимодействия современного веба]] 
 

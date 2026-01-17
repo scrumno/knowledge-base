@@ -1,4 +1,4 @@
-#php #backend #вебразработка #rasa #webstudio #frontend 
+#tech/php #tech/backend #вебразработка #rasa #webstudio #frontend 
 
 аргументы внутри __construct
 это аргументы внутри класса

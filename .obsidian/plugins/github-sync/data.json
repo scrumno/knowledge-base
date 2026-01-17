@@ -1,0 +1,7 @@
+{
+  "remoteURL": "git@github.com:scrumno/knowledge-base.git",
+  "gitLocation": "",
+  "syncinterval": 0,
+  "isSyncOnLoad": true,
+  "checkStatusOnLoad": true
+}
