@@ -44,4 +44,3 @@ npm install @reatom/core @reatom/react
 
 
 [[REACT NATIVE ARCHITECTURE PATTERNS]]
-
