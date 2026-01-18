@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b764c209bb3fe7ff",
+        "id": "5dcd454707696086",
         "type": "tabs",
         "children": [
           {
-            "id": "8c8357ffdae2ae70",
+            "id": "70fa9a26e84fa5c9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "99-MOCs/Patterns-MOC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Patterns-MOC"
             }
           }
         ]
@@ -146,6 +150,20 @@
               "icon": "lucide-list",
               "title": "Outline of ORM"
             }
+          },
+          {
+            "id": "a8ce91ff6395f5f6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
           }
         ]
       }
@@ -166,10 +184,35 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "8c8357ffdae2ae70",
+  "active": "70fa9a26e84fa5c9",
   "lastOpenFiles": [
+    "99-MOCs/Life-MOC.md",
+    "Untitled.base",
+    "99-MOCs/Home.md",
+    "SYSTEM_COMPLETE.md",
+    "README_SYSTEM.md",
+    "QUICK_START.md",
+    "99-MOCs/Bitrix-MOC.md",
+    "03-Resources/Patterns/DDD-Patterns/Методы написания DDD архитектурны.md",
+    "03-Resources/Patterns/DDD-Patterns/Что такое DDD архитектура.md",
+    "03-Resources/Patterns/PHP-Patterns/D -.md",
+    "99-MOCs/Patterns-MOC.md",
+    "03-Resources/Patterns/DDD-Patterns/DDD архитектура в RASA и как с ней работать.md",
+    "99-MOCs/Learning-MOC.md",
+    "99-MOCs/Projects-MOC.md",
+    "JavaScript Learning.md",
+    "02-Areas/Learning/Bitrix/Вывод динамической информации на сайте.md",
+    "02-Areas/Health/Agile-Life/Введение (Восстановление энергии).md",
+    "01-Projects/Web-Studio/Стратегия набора команды.md",
+    "01-Projects/Web-Studio/Сплотить команду в единый организм.md",
+    "01-Projects/Web-Studio/Состав.md",
+    "01-Projects/Web-Studio/Оглавление.md",
+    "01-Projects/Web-Studio/Заработок.md",
+    "01-Projects/Bitrix-Exam/Подготовка к экзамену Bitrix Framework.md",
+    "01-Projects/Bitrix-Exam/Личная инициатива и обучение по Bitrix.md",
+    "00-Inbox/Untitled.md",
+    "00-Inbox/README.md",
     "scripts/update_mocs.sh",
-    "scripts/README.md",
     "scripts/move_from_inbox.sh",
     "scripts/format_new_files.sh",
     "scripts/format_file.sh",
@@ -178,32 +221,6 @@
     "scripts/check_system.sh",
     "scripts/add_metadata.sh",
     "scripts",
-    "fix_tags_script.sh",
-    "TAGS_FIXED.md",
-    "SYSTEM_COMPLETE.md",
-    "QUICK_START.md",
-    "Makefile",
-    "MAKEFILE_GUIDE.md",
-    "LINKS_FIXED.md",
-    "README_SYSTEM.md",
-    "SYSTEM_STRUCTURE.md",
-    "templates/Project-Template.md",
-    "templates/Note-Template.md",
-    "templates/Meeting-Template.md",
-    "templates/Daily-Review-Template.md",
-    "MIGRATION_GUIDE.md",
-    "MIGRATION_COMPLETE.md",
-    "99-MOCs/Resources-MOC.md",
-    "99-MOCs/Life-MOC.md",
-    "99-MOCs/Projects-MOC.md",
-    "99-MOCs/Patterns-MOC.md",
-    "99-MOCs/Learning-MOC.md",
-    "99-MOCs/Home.md",
-    "99-MOCs/Bitrix-MOC.md",
-    "03-Resources/Tools/Docker/Оркестр всех контейнеров - docker-compose.yml.md",
-    "03-Resources/Tools/Docker/Настройка сервиса nginx в docker-compose.yml.md",
-    "03-Resources/Tools/Docker/Настройка окружения для Laravel проекта.md",
-    "03-Resources/Tools/Docker/Настройка mysql для docker.md",
     "03-Resources/External-Links/Без названия.canvas",
     "03-Resources/External-Links/Untitled.canvas",
     "03-Resources/External-Links/slot-pattern.canvas",
