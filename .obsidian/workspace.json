@@ -18,8 +18,23 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.11.4"
             }
+          },
+          {
+            "id": "b3a225692b3d0f57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Areas/Learning/JavaScript/что такое REDUX.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "что такое REDUX"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,8 +197,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "8692e67d2d92fd91",
+  "active": "b3a225692b3d0f57",
   "lastOpenFiles": [
+    "02-Areas/Learning/JavaScript/REDUX/REDUX.md",
+    "Untitled.md",
+    "Untitled.base",
+    "JavaScript Learning.md",
     "что такое REDUX.md",
     "ROAD TO THE BUSINESS/LEARN/JAVASCRIPT/REDUX/REDUX.md",
     "pattern ssr.md",
@@ -215,9 +234,6 @@
     "ROAD TO THE BUSINESS/LEARN/REACT-NATIVE/how create React Native app.md",
     "ROAD TO THE BUSINESS/LEARN/REACT-NATIVE/XCODE/XCODE GUIDE.md",
     "low level code.md",
-    "render props.md",
-    "2025-12-31.md",
-    "templates/pattern.md",
     "templates",
     "ROAD TO THE BUSINESS/LEARN/REACT-NATIVE/REACT",
     "ROAD TO THE BUSINESS/LEARN/REACT-NATIVE/Untitled",
@@ -238,7 +254,6 @@
     "_resources/Pasted image 20250629115851.png",
     "_resources",
     "ROAD TO THE BUSINESS/LEARN/JAVASCRIPT/hexlet.io/Полиморфизм",
-    "ROAD TO THE BUSINESS/LEARN/JAVASCRIPT/hexlet.io",
     "ROAD TO THE BUSINESS/DDD DIAGRAM.canvas"
   ]
 }
